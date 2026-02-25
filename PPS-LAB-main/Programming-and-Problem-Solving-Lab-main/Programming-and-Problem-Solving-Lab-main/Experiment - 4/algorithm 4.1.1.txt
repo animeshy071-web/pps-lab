@@ -1,0 +1,28 @@
+Algorithm: Union, Intersection and Difference of Two Sets
+
+Step 1: Start
+
+Step 2: Input elements of Set A as space-separated integers
+
+Step 3: Convert the input into a set and store it in A
+
+Step 4: Input elements of Set B as space-separated integers
+
+Step 5: Convert the input into a set and store it in B
+
+Step 6: Find the union of sets
+  union_set = A ∪ B
+
+Step 7: Find the intersection of sets
+  intersection_set = A ∩ B
+
+Step 8: Find the difference of sets
+  difference_set = A − B
+
+Step 9: Print "Union:" followed by union_set
+
+Step 10: Print "Intersection:" followed by intersection_set
+
+Step 11: Print "Difference:" followed by difference_set
+
+Step 12: Stop
